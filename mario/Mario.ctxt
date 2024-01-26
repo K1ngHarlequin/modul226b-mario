@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Mario
+comment1.params=
+comment1.target=Mario()
+comment2.params=
+comment2.target=void\ scaleImages()
+comment3.params=
+comment3.target=void\ act()
+comment4.params=
+comment4.target=void\ checkFalling()
+comment5.params=
+comment5.target=void\ fall()
+comment6.params=
+comment6.target=boolean\ isOnGround()
+comment7.params=
+comment7.target=void\ jump()
+comment8.params=
+comment8.target=void\ updateImage()
+comment9.params=
+comment9.target=void\ animateRunning()
+numComments=10
